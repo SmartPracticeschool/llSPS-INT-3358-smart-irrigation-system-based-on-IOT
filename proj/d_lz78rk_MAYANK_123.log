@@ -1,0 +1,62 @@
+2020-07-08 18:34:03,230   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-08 19:11:47,253   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-08 19:17:27,885   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-08 19:56:49,547   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-08 20:06:58,811   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:08:21,855   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:18:58,054   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-07-11 17:19:28,715   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:28:09,730   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:37:10,593   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:37:57,049   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:46:00,326   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:47:43,813   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:54:09,746   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:56:24,156   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:56:40,376   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:57:18,491   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:57:48,194   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 17:58:33,206   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 18:14:15,416   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 18:14:15,425   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2020-07-11 18:14:15,431   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2020-07-11 18:14:38,562   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 18:18:22,272   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 18:19:10,064   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 18:19:18,321   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2020-07-11 18:19:18,343   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2020-07-11 18:21:08,377   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 18:22:47,682   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:23:51,174   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:30:38,211   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:41:16,244   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:41:57,188   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:44:41,067   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:47:39,560   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:50:20,734   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:52:27,795   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:53:29,664   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:54:27,053   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:56:29,931   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:57:25,840   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 19:58:41,590   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:00:29,173   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:01:20,534   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:05:02,708   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:06:25,206   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:08:35,157   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:26:58,048   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:28:25,422   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:30:48,041   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:31:22,108   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:34:46,424   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:36:21,997   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:38:55,327   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 20:40:24,566   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 22:08:01,293   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 22:08:33,668   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 22:11:18,422   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 22:12:44,095   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 22:26:11,624   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 22:35:07,095   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
+2020-07-11 23:09:33,337   ibmiotf.device.Client      INFO    Connected successfully: d:lz78rk:MAYANK:123
