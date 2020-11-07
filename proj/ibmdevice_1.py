@@ -11,11 +11,9 @@ deviceId = "123"
 authMethod = "token"
 authToken = "12345678"
 
-
 def myCommandCallback(cmd):
         print("Command received: %s" % cmd.data)#Commands
         
-
 try:
 	deviceOptions = {"org": organization, "type": deviceType, "id": deviceId, "auth-method": authMethod, "auth-token": authToken}
 	deviceCli = ibmiotf.device.Client(deviceOptions)
